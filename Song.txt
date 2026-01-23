@@ -10,5 +10,3 @@ with different words
 what a words!
 
 new feature
-
-and one more line in the feature
